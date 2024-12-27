@@ -1,6 +1,14 @@
 # Project-Inspecting-Electric-Vehicle-Charging-Trends
 Dive into a decade of data from the US Government's Alternative Fuels Data Center to uncover trends in electric vehicle charging infrastructure. From the rise of public and private charging ports to yearly shifts in EV sales, this project visualizes the future of sustainable mobility.
 
+
+Does increased electric vehicle sales lead to more public or private charging ports?
+
+How many vehicles were sold in 2018 in total? Save the answer as a numeric variable called ev_sales_2018.
+Plot trends for private ports, public ports, and sales, saving this as fig, ax objects.
+Did vehicle sales and number of private and public ports show the same trend (either increasing or decreasing) between the years 2015 and 2018? Save your answer as same or different to a variable called trend.
+
+
 ### The Data
 &nbsp;
 
